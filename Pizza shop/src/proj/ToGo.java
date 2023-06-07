@@ -2,9 +2,8 @@ package proj;
 
 
 
-//Moath Wajeeh Abdalbaqi
-//1210125
-//S11
+//implemented by:  Moath AbdAlbaqi
+
 public class ToGo extends PizzaOrder{
  public ToGo() {}
  public ToGo(String customerName,int size,int numberOfToppings,double toppingPrice) {
