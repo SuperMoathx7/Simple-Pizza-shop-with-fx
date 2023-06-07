@@ -2,9 +2,8 @@ package proj;
 
 
 
-//Moath Wajeeh Abdalbaqi
-//1210125
-//S11
+//implemented by:  Moath AbdAlbaqi
+
 public class Delivery extends PizzaOrder {
 private double tripRate;
  private int zone;
