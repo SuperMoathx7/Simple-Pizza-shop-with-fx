@@ -1,7 +1,6 @@
 package proj;
-//Moath Wajeeh Abdalbaqi
-//1210125
-//S11
+//implemented by:  Moath AbdAlbaqi
+
 import java.util.*;
 public class  PizzaOrder implements Comparable<PizzaOrder>{
 private String customerName;
