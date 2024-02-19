@@ -1,7 +1,6 @@
 package proj;
 
 
-
 //implemented by:  Moath AbdAlbaqi
 
 public class ToGo extends PizzaOrder{
